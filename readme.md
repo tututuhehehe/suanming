@@ -6,9 +6,9 @@
 
 ## 🎬 演示
 
-https://github.com/tututuhehehe/--/raw/main/demo.mp4
+https://github.com/tututuhehehe/suanming/raw/main/demo.mp4
 
-> 💡 如果视频无法播放，请[点击这里](https://github.com/tututuhehehe/--/raw/main/demo.mp4)下载观看
+> 💡 如果视频无法播放，请[点击这里](https://github.com/tututuhehehe/suanming/raw/main/demo.mp4)下载观看
 
 ## ✨ 特性
 
@@ -60,8 +60,8 @@ https://github.com/tututuhehehe/--/raw/main/demo.mp4
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/tututuhehehe/--.git
-cd --
+git clone https://github.com/tututuhehehe/suanming.git
+cd suanming
 ```
 
 ### 2. 安装依赖
