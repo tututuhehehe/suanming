@@ -1,0 +1,5 @@
+{
+  "dashscope_api_key": "sk-your-api-key-here",
+  "model": "qwen-plus",
+  "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+}

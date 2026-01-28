@@ -1,0 +1,76 @@
+{
+  "bagua": [
+    {
+      "name": "乾",
+      "symbol": "☰",
+      "binary": "111",
+      "nature": "天",
+      "wuxing": "金",
+      "family": "父",
+      "direction": "西北"
+    },
+    {
+      "name": "兑",
+      "symbol": "☱",
+      "binary": "011",
+      "nature": "泽",
+      "wuxing": "金",
+      "family": "少女",
+      "direction": "西"
+    },
+    {
+      "name": "离",
+      "symbol": "☲",
+      "binary": "101",
+      "nature": "火",
+      "wuxing": "火",
+      "family": "中女",
+      "direction": "南"
+    },
+    {
+      "name": "震",
+      "symbol": "☳",
+      "binary": "001",
+      "nature": "雷",
+      "wuxing": "木",
+      "family": "长男",
+      "direction": "东"
+    },
+    {
+      "name": "巽",
+      "symbol": "☴",
+      "binary": "110",
+      "nature": "风",
+      "wuxing": "木",
+      "family": "长女",
+      "direction": "东南"
+    },
+    {
+      "name": "坎",
+      "symbol": "☵",
+      "binary": "010",
+      "nature": "水",
+      "wuxing": "水",
+      "family": "中男",
+      "direction": "北"
+    },
+    {
+      "name": "艮",
+      "symbol": "☶",
+      "binary": "100",
+      "nature": "山",
+      "wuxing": "土",
+      "family": "少男",
+      "direction": "东北"
+    },
+    {
+      "name": "坤",
+      "symbol": "☷",
+      "binary": "000",
+      "nature": "地",
+      "wuxing": "土",
+      "family": "母",
+      "direction": "西南"
+    }
+  ]
+}
