@@ -6,9 +6,9 @@
 
 ## 🎬 演示
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/tututuhehehe/--/raw/main/demo.mp4
 
-> 💡 如果视频无法播放，请[点击这里](demo.mp4)下载观看
+> 💡 如果视频无法播放，请[点击这里](https://github.com/tututuhehehe/--/raw/main/demo.mp4)下载观看
 
 ## ✨ 特性
 
@@ -60,8 +60,8 @@ https://github.com/user-attachments/assets/demo.mp4
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-repo/liuyao-ai.git
-cd liuyao-ai
+git clone https://github.com/tututuhehehe/--.git
+cd --
 ```
 
 ### 2. 安装依赖
