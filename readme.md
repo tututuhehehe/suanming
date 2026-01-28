@@ -6,7 +6,7 @@
 
 ## 🎬 演示
 
-<video src="https://github.com/tututuhehehe/suanming/raw/main/demo.mp4" controls="controls" width="100%" poster=""></video>
+https://github.com/tututuhehehe/suanming/raw/main/demo.mp4
 
 > 💡 如果视频无法播放，请[点击这里](https://github.com/tututuhehehe/suanming/raw/main/demo.mp4)下载观看
 
